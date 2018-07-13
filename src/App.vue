@@ -30,7 +30,6 @@ export default {
   	
   		this.tasks.unshift(this.newTask);
   		this.newTask = '';
-  		this.tasks.length;
 
   	}
   }
